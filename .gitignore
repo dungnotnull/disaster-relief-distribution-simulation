@@ -1,0 +1,20 @@
+﻿# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Runtime logs and state
+tools/updater.log
+tools/crawled_ids.json
+
+# Virtual environments
+venv/
+.env/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
